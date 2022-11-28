@@ -1,0 +1,3 @@
+CSS Grid is now live in all major browsers, and with it everything we know about web layouts changes! Imagine drawing a grid in the browser and placing content in one or any number of cells without having to change the HTML or source order. And imagine changing that grid on the fly using media queries or JavaScript while keeping the HTML markup clean and accessible. That’s what CSS Grid does, and that’s why you should be using it today.
+
+The CSS Grid Layout Module introduces a native CSS grid system, provided at the viewport level, that achieves what CSS frameworks and popular grid systems could only dream about: Responsive, flexible, pure CSS grid layouts, independent of document source order, that allow us to treat the browser as a true design and layout surfaces
